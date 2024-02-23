@@ -6,12 +6,12 @@ Message: hey
 Date: 23/2/2024
 Time: 12:2
 Phone Number: +8309989851
-Message: fuck
+Message: yes
 --------------------
 Date: 23/2/2024
 Time: 12:6
 Phone Number: +9951860746
-Message: mai behen ka lauda kyu hoon
+Message: hello world
 --------------------
 Date: 23/2/2024
 Time: 12:26
